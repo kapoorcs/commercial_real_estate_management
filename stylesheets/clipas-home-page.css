@@ -54,11 +54,13 @@
    width: 20px;
  }
  .container-fluid .container-fluid-1 .well.well-1.well-2 .row-fluid .span6 .well.well-1.well-3 .row-fluid .span4 .btn {
-   background: #bbf61f;
-   font-size: 12px;
-   border: none;
-   border-radius: 0px;
+   background: #1abc9c;
    margin: 20px 0px 0px 0px;
+   border: none;
+   font-family:"helvetica";
+   font-weight: bold;
+   font-size: 10px;
+   border-radius: 70px;
  }
  .container-fluid .well.well-4 {
    border-radius: 0px;
@@ -67,7 +69,9 @@
  .container-fluid .well.well-5 {
    background: #34495e;
    margin: 0px;
-   padding: 0px 19px 20px 19px;
+ }
+ .container-fluid .well.well-4.well-5 p {
+   margin: 0px;
  }
  .container-fluid .container-fluid .row-fluid .span6 .heading {
    font-size: 20px;
