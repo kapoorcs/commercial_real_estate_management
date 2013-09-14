@@ -1,0 +1,128 @@
+ body {
+   padding-left: 0;
+   padding-right: 0;
+ }
+ .container-fluid .container-fluid {
+   padding: 0px;
+ }
+ .container-fluid .container-fluid .well.well-1 {
+   border-radius: 0px;
+ }
+ .container-fluid .container-fluid .well.well-2 {
+   padding: 0px;
+ }
+ .container-fluid .container-fluid .well {
+   margin: 0px;
+ }
+ .container-fluid .container-fluid .well.well-3 {
+   border: none;
+ }
+ .container-fluid .container-fluid .well.well-1.well-2 .row-fluid .span6 .page-header {
+   padding: 0px;
+   margin: 0px 0px 0px 20px;
+ }
+ .container-fluid .container-fluid .well.well-1.well-2 .row-fluid .span6 .page-header h1 {
+   font-family:"spinnaker";
+ }
+ .container-fluid .container-fluid .well.well-1.well-2 .row-fluid .span6 .well.well-1.well-3 {
+   padding: 0px 19px 0px 19px;
+ }
+ .container-fluid .container-fluid .well.well-1.well-2 .row-fluid .span6 .well.well-1.well-3 .row-fluid .span2 p {
+   text-align: right;
+ }
+ .container-fluid .container-fluid .well.well-1.well-2 .row-fluid .span6 .well.well-1.well-3 .row-fluid .span2 p.p-1 {
+   margin: 0px;
+   padding: 20px 0px 0px 0px;
+ }
+ .container-fluid .container-fluid .well.well-1.well-2 .row-fluid .span6 .well.well-1.well-3 .row-fluid .span2 .icon.icon-off {
+   font-size: 20px;
+   margin: 20px 0px 0px 0px;
+   height: 20px;
+   width: 20px;
+ }
+ .container-fluid .container-fluid .well.well-1.well-2 .row-fluid .span6 .well.well-1.well-3 .row-fluid .span2 .well.well-2.well-3 p {
+   background: rgba(245, 245, 245, 0);
+   margin: 20px 0px 0px 0px;
+ }
+ .container-fluid .container-fluid .well.well-1.well-2 .row-fluid .span6 .well.well-1.well-3 .row-fluid .span2.span2-1 {
+   padding: 20px 0px 0px 0px;
+ }
+ .container-fluid .container-fluid .well.well-1.well-2 .row-fluid .span6 .well.well-1.well-3 .row-fluid .span2-1 .icon.icon-paste {
+   font-size: 20px;
+   margin: 0px;
+   height: 20px;
+   width: 20px;
+ }
+ .container-fluid .container-fluid .well.well-1.well-2 .row-fluid .span6 .well.well-1.well-3 .row-fluid .span4 .btn {
+   background: #bbf61f;
+   font-size: 12px;
+   border: none;
+   border-radius: 0px;
+   margin: 20px 0px 0px 0px;
+ }
+ .container-fluid .well.well-4 {
+   border-radius: 0px;
+   border: none;
+ }
+ .container-fluid .well.well-5 {
+   margin: 0px;
+ }
+ .container-fluid .well.well-6 {
+   background: #34495e;
+   padding: 0px 19px 20px 19px;
+ }
+ .container-fluid .row-fluid .span6 .well.well-4.well-5.well-7 {
+   padding: 19px 19px 18px 19px;
+   background: #ffffff;
+ }
+ .container-fluid .row-fluid .span6 .well.well-4.well-5.well-7 .heading {
+   font-size: 20px;
+   text-align: center;
+ }
+ .container-fluid .row-fluid .span6 .well.well-4.well-5.well-7 .icon.icon-bar-chart {
+   margin: 1px 0px 0px 150px;
+   font-size: 100px;
+   height: 100px;
+   width: 100px;
+ }
+ .container-fluid .row-fluid .span6 .well.well-4.well-5.well-8 {
+   padding: 19px 19px 7px 19px;
+   background: rgba(255, 255, 255, 0.890196);
+ }
+ .container-fluid .row-fluid .span6 .well.well-4.well-5.well-8 .heading {
+   text-align: center;
+   font-size: 20px;
+ }
+ .container-fluid .row-fluid .span6 .well.well-4.well-5.well-8 .icon.icon-columns {
+   margin: 1px 0px 0px 150px;
+   font-size: 100px;
+   height: 100px;
+   width: 100px;
+ }
+ .container-fluid .well.well-4.well-9 {
+   background: #333333;
+   padding: 0px;
+ }
+ .container-fluid .well.well-4.well-9 .row-fluid .span6 p {
+   padding: 0px 0px 0px 20px;
+ }
+ .container-fluid .well.well-4.well-9 .row-fluid .span6 p.p-2 {
+   color: #f7f1f1;
+   margin: 0px;
+ }
+ .container-fluid .well.well-4.well-9 .row-fluid .span6 p.p-3 {
+   color: #f4eaea;
+ }
+ .container-fluid .well.well-4.well-9 .row-fluid .span6 .icon.icon-facebook {
+   margin: 1px 0px 0px 300px;
+   color: #fcf6f6;
+   font-size: 40px;
+   height: 40px;
+   width: 40px;
+ }
+ .container-fluid .well.well-4.well-9 .row-fluid .span6 .icon.icon-twitter {
+   color: #f3eaea;
+   font-size: 40px;
+   height: 40px;
+   width: 40px;
+ }
